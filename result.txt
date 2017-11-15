@@ -1,0 +1,146 @@
+1|C|07
+2|C#|07
+3|C++|07
+4|Clojure|07
+5|COBOL|07
+6|Dart|07
+7|Delphi|07
+8|Elixir|07
+9|Elm|07
+10|Erlang|07
+11|Hack|07
+12|Haskell|07
+13|Go|07
+14|Java|07
+15|JavaScript|07
+16|Kotlin|07
+17|Lua|07
+18|Objective-C|07
+19|Perl|07
+20|PHP|07
+21|Python|07
+22|R|07
+23|Ruby|07
+24|Rust|07
+25|Scala|07
+26|Swift|07
+27|TypeScript|07
+28|Visual Basic|07
+29|HTML|07
+30|CSS|07
+31|XML|07
+32|Android|07
+33|iOS|07
+34|MacOS|07
+35|UNIX/Linux|07
+36|Windows|07
+37|.net framework|07
+38|AngularJS|07
+39|CakePHP|07
+40|Cocos2d|07
+41|Django|07
+42|Hadoop|07
+43|Hanami|07
+44|jQuery|07
+45|Laravel|07
+46|Node.js|07
+47|Phalcon|07
+48|Phoenix|07
+49|Play|07
+50|Rails|07
+51|React.js|07
+52|RxJS|07
+53|Sails.js|07
+54|Sinatra|07
+55|Spring|07
+56|Struts|07
+57|Symfony|07
+58|Unity|07
+59|Vue.js|07
+60|web2py|07
+61|Wicket|07
+62|Xamarin|07
+63|Yii|07
+64|Zend Framework|07
+65|Apache|07
+66|IIS|07
+67|Jigsaw|07
+68|lighttpd|07
+69|Mongrel|07
+70|Nginx|07
+71|Passenger|07
+72|Puma|07
+73|Tomcat|07
+74|Unicorn|07
+75|Cassandra|07
+76|DB2|07
+77|DynamoDB|07
+78|HBase|07
+79|Memcached|07
+80|MongoDB|07
+81|MySQL|07
+82|Oracle|07
+83|PostgreSQL|07
+84|Redis|07
+85|SQL Server|07
+86|SQLite|07
+87|ElasticSearch|07
+88|Lucene|07
+89|Solr|07
+90|Amazon Web Services|07
+91|Cloud Foundry|07
+92|Deis|07
+93|Docker|07
+94|Dokku|07
+95|Engine Yard|07
+96|Firebase|07
+97|Google Cloud Platform|07
+98|Heroku|07
+99|IBM Bluemix|07
+100|Microsoft Azure|07
+101|On-premises|07
+102|OpenShift|07
+103|OpenStack|07
+104|Bash|07
+105|Emacs|07
+106|Git|07
+107|MS-DOS Shell|07
+108|Subversion|07
+109|Vim|07
+110|zsh|07
+111|CircleCI|07
+112|Jenkins|07
+113|TravisCI|07
+114|Ansible|07
+115|kubernetes|07
+116|monit|07
+117|nagios|07
+118|puppet|07
+119|zabbix|07
+120|Backup and Recovery|07
+121|Data migration|07
+122|Database design and planning|07
+123|Database installation and upgrade|07
+124|Database redundancy|07
+125|Database relocation|07
+126|Performance tuning|07
+127|Security management|07
+128|Storage management|07
+129|Routing and Switching|07
+130|Security (Gateway, Firewall, etc)|07
+131|Server and Storage Infrastructure|07
+132|Server virtualization|07
+133|Agriculture & Forestry/Wildlife|07
+134|Business & Information|07
+135|Construction/Utilities/Contracting|07
+136|Education|07
+137|Finance & Insurance|07
+138|Food & Hospitality|07
+139|Gaming|07
+140|Health Services|07
+141|Motor Vehicle|07
+142|Natural Resources/Environmental|07
+143|Personal Services|07
+144|Real Estate & Housing|07
+145|Safety/Security & Legal|07
+146|Transportation|07
