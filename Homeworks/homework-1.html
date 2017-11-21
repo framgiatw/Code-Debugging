@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <script>
+            let openFile = function(event) {
+                let input = event.target;
+
+                let reader = new FileReader();
+                reader.readAsText(input.files[0]);
+
+                reader.onload = function(){
+                    let lines = reader.result.split('\n');
+                    let linesResult = [];
+                    let regex = /^\|\s*(\d+)\s*\|\s*((\S+\s)+)\s*\|.*\|\s*\d{4}-(\d{2})-\d{2}.*$/;
+                    for (let i = 3; i < lines.length - 1; i++) {
+                        result = lines[i].trim().match(regex);
+                        linesResult.push(`${result[1]}|${result[2].trim()}|${result[4]}`);
+                    }
+
+                    document.getElementById('output').innerText = linesResult.join('\n');
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <input type='file' accept='text/plain' onchange='openFile(event)'>
+        <br>
+        <div id='output'>
+            ...
+        </div>
+    </body>
+</html>
